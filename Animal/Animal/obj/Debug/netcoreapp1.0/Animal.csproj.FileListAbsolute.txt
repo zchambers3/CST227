@@ -1,0 +1,11 @@
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\Animal\Animal\bin\Debug\netcoreapp1.0\Animal.deps.json
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\Animal\Animal\bin\Debug\netcoreapp1.0\Animal.runtimeconfig.json
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\Animal\Animal\bin\Debug\netcoreapp1.0\Animal.runtimeconfig.dev.json
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\Animal\Animal\bin\Debug\netcoreapp1.0\Animal.dll
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\Animal\Animal\bin\Debug\netcoreapp1.0\Animal.pdb
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\Animal\Animal\obj\Debug\netcoreapp1.0\Animal.csprojAssemblyReference.cache
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\Animal\Animal\obj\Debug\netcoreapp1.0\Animal.csproj.CoreCompileInputs.cache
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\Animal\Animal\obj\Debug\netcoreapp1.0\Animal.AssemblyInfoInputs.cache
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\Animal\Animal\obj\Debug\netcoreapp1.0\Animal.AssemblyInfo.cs
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\Animal\Animal\obj\Debug\netcoreapp1.0\Animal.dll
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\Animal\Animal\obj\Debug\netcoreapp1.0\Animal.pdb
