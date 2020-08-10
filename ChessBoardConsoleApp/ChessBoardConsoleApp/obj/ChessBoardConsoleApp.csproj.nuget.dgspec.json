@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Austin\\source\\repos\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\ChessBoardConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Austin\\source\\repos\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\ChessBoardConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Austin\\source\\repos\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\ChessBoardConsoleApp.csproj",
+        "projectName": "ChessBoardConsoleApp",
+        "projectPath": "C:\\Users\\Austin\\source\\repos\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\ChessBoardConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Austin\\source\\repos\\ChessBoardConsoleApp\\ChessBoardConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Austin\\source\\repos\\ChessBoardConsoleApp\\ChessBoardModel\\ChessBoardModel.csproj": {
+                "projectPath": "C:\\Users\\Austin\\source\\repos\\ChessBoardConsoleApp\\ChessBoardModel\\ChessBoardModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Austin\\source\\repos\\ChessBoardConsoleApp\\ChessBoardModel\\ChessBoardModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Austin\\source\\repos\\ChessBoardConsoleApp\\ChessBoardModel\\ChessBoardModel.csproj",
+        "projectName": "ChessBoardModel",
+        "projectPath": "C:\\Users\\Austin\\source\\repos\\ChessBoardConsoleApp\\ChessBoardModel\\ChessBoardModel.csproj",
+        "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Austin\\source\\repos\\ChessBoardConsoleApp\\ChessBoardModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Austin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

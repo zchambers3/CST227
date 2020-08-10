@@ -1,0 +1,4 @@
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\netcoreapp1.0\ChessBoardConsoleApp.csprojAssemblyReference.cache
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\netcoreapp1.0\ChessBoardConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\netcoreapp1.0\ChessBoardConsoleApp.AssemblyInfoInputs.cache
+C:\Users\zcham\OneDrive\Desktop\GCU - School\CST227\Week2\Zack Chambers Activity2\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\netcoreapp1.0\ChessBoardConsoleApp.AssemblyInfo.cs
